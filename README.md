@@ -15,7 +15,7 @@ This project presents an interactive Swiggy Sales Dashboard built using Power BI
 - Visualizations using bar charts, pie charts, and trend charts
 
 ## Dashboard Preview
-
+![Swiggy Dashboard](swiggy-dashboard.png)
 
 ## Project File
 The Power BI (.pbix) file is included in this repository for reference and analysis.
